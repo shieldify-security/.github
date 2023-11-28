@@ -1,11 +1,10 @@
-![shieldify-wordmark](https://github.com/shieldify-security/audits-portfolio/assets/133656516/2e532570-42cc-44c5-be61-fec9437aec70)
+![shieldify-wordmark](https://github.com/shieldify-security/audits-portfolio/assets/133656516/45649c92-117b-49d9-bfaa-2d75bbc87cc6)
 
 # Public Portfolio
 
-Welcome to Shieldify Security - a web3 company providing professional smart contract security auditing services for decentralized protocols. Our team of three experienced security engineers is dedicated to fortifying the ecosystem by ensuring the utmost security, cost-efficiency, and user-friendliness of our customers. With a track record of contributing some of the more ambitious blockchain projects with multimillion-dollar market capitalizations, we are poised to safeguard the decentralized revolution with top-tier expertise and dedication.
+Welcome to Shieldify Security - Revolutionizing Web3 Security. Elevating standards with top-tier reports, a uniques subscription based model and private bug bounty pools.
 
-<hr>
-<br>
+Learn more about us: [here](https://shieldify.org/)
 
 # Security Review Table
 
@@ -14,7 +13,7 @@ Note: _All reports here are published with the consent of our clients._
 | ID  | Protocol                                    | Type                                                                            | Report link                                                  | Date      |
 |:---:|:-------------------------------------------:| ------------------------------------------------------------------------------- |:------------------------------------------------------------:|:---------:|
 | 11  |               [Possum Labs](https://www.possumlabs.io/)               | DeFi, Stake yield-bearing assets and receive instant upfront yield                 |     [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-Security-Review.pdf)     |  October 2023  |
-| 10  |                              Undisclosed                              | Cross-chain query infrastructure, optimized for data acquisition from other chains |                         Soon                         |  October 2023  |
+| 10  |                              [Futaba](https://futaba.dev/)                              | Cross-chain query infrastructure, optimized for data acquisition from other chains |                         Soon                         |  October 2023  |
 |  9  |                [Dark Mythos](https://dark-mythos.com/)                | ERC-721 collection                                                                 |    [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/DarkMythos-Security-Review.pdf)     | September 2023 |
 |  8  |                [Geode Finance](https://www.geode.fi/)                 | DeFi, Decentralized & Liquid Staking Pools (Withdrawal-Module) - Second Review     |                         [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports//GeodeFinance-WM-Security-Review.pdf)                         | September 2023 |
 |  7  | [Pantheon Ecosystem](https://pantheon-ecosystem.gitbook.io/pantheon/) | ERC-20, Fully Collateralized Permissionless Reserve Currency                       | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PantheonEcosystem-Security-Review.pdf)  | September 2023 |
@@ -25,13 +24,8 @@ Note: _All reports here are published with the consent of our clients._
 | 2   | [Hubble Exchange](https://hubble.exchange/) | DEX, Multi-collateral / Cross-Margin Perpetual Futures protocol on Avalanche    | Private                                                            | July 2023 |
 | 1   | [Geode Finance](https://www.geode.fi/)      | DeFi, Decentralized & Liquid Staking Pools                                      | [📄](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/GeodeFinance-Security-Review.pdf) | June 2023 |
 
-
-
-<br>
-
 # Our Contacts
 
- [![Website URL](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shieldify.org/)
- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ShieldifySec)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/shieldify-security/)
- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/researcherShieldify)
+[X (Twitter)](https://twitter.com/ShieldifySec),
+[Telegram](https://telegram.me/researcherShieldify),
+[LinkedIn](https://www.linkedin.com/company/shieldify-security/)
